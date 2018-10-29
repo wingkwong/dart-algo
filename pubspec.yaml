@@ -1,0 +1,9 @@
+name: algo
+version: 0.1.0
+description: Dart Algorithm Module
+homepage: https://github.com/wingkwong/dart-algo
+author: WONG, Wing Kam <wingkwong.code@gmail.com>
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dev_dependencies:
+  test: ^1.2.0
